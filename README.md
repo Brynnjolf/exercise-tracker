@@ -1,5 +1,5 @@
 # An Exercise Tracking App
-*The Stack:* 
+**The Stack:**
 * React
 * ExpressJS - Node
 * MongoDB
